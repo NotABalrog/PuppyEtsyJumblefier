@@ -64,7 +64,7 @@ function getEtsyImages(term) {
 
 
     //replace with my api key
-    api_key = "5rotk2iss5zvtx24xexcl6o8";
+    api_key = "a1tvo40ptf7rmzd88q7244mm";
     etsyURL = "https://openapi.etsy.com/v2/listings/active.js?keywords=" +
                         term + "&limit=12&includes=Images:1&api_key=" + api_key;
 
