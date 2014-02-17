@@ -1,0 +1,92 @@
+﻿/*body {
+    background-color: #FFB673;
+}
+
+.title {
+    height: 32px;
+    width: 292px;
+    background-color: #5FC0CE;
+    display: inline;
+}*/
+
+.imgWrapper {
+    border: 3px ridge #225e79;
+    display: inline;
+    max-height: 330px;
+    max-width: 300px;
+    min-height: 330px;
+    min-width: 300px;
+    display: block;
+    margin: 3px 3px 3px 3px;
+    background: #FFB473;
+    float: left;
+    display: inline;
+}
+
+.row {
+    text-align: center;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+#center {
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+#dogBreed {
+    margin: 0 auto;
+    vertical-align: middle;
+    width: 10%;
+    margin-right: 10px;
+    height: 34px;
+}
+
+.puppies {
+    max-height: 140px;
+    max-width: 140px;
+    min-height: 140px;
+    min-width: 140px;
+}
+
+
+.etsyImg {
+    padding-top: 4px;
+    max-height: 270px;
+    max-width: 270px;
+    min-height: 270px;
+    min-width: 270px;
+}
+
+#getJumble {
+    margin-bottom: 1px;
+}
+
+
+/*.imgWrapper {
+    float: right;
+    height: auto;
+    width: auto;
+    border: 5px solid #225E79;
+    margin: 3px 3px 3px 3px;
+}
+
+.etsyImg {
+    max-height: 320px;
+    max-width: 310px;
+    min-height: 320px;
+    min-width: 310px;
+}
+
+#etsyContainer {
+    background: #bf7530;
+}
+.mainContainer {
+    margin-left: auto ;
+    margin-right: auto ;
+    background: #03899C;
+    width: 1024px;
+    height: 768px;
+}*/
